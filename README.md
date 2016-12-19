@@ -2,7 +2,7 @@
 learning : A list of all kinds of resources, videos, pdf, blogs, codes...
 
 
-https://learning.xgqfrms.xyz
+https://learning.webgeeker.xyz
 
 
 
